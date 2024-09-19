@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 group-title="PL",++Zlote przeboje++
+http://mainstream.radioagora.pl:80/tuba9-1.mp3
+#EXTINF:-1 group-title="PL",++RMF FM++
+http://31.192.216.5:8000/rmf_fm
+#EXTINF:-1 group-title="PL",++RMF MAX++
+http://195.150.20.243:8000/rmf_maxxx
+#EXTINF:-1 group-title="PL",++Radio Zet+
+http://radiozetmp3-01.eurozet.pl:8400
+#EXTINF:-1 group-title="PL",++Radio Eska Rock+
+https://ic2.smcdn.pl/5380-1.mp3#ESKA_ROCK
+#EXTINF:-1 group-title="PL",++Antyradio+
+https://n-4-2.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx?audio=5
